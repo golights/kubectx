@@ -23,7 +23,7 @@ import (
 )
 
 var (
-	ActiveItemColor = color.New(color.FgGreen, color.Bold)
+	ActiveItemColor = color.New(color.FgWhite, color.Bold)
 )
 
 func init() {
